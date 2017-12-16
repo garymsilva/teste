@@ -1,0 +1,6 @@
+Cachorro
+Gato
+Rato
+Porco
+Cavalo
+Boi
