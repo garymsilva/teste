@@ -6,3 +6,5 @@ Cavalo
 Boi
 macaco
 leão
+Rato
+Hipopotamo
