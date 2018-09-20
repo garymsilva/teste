@@ -3,3 +3,4 @@ Gato
 Rato
 Porco
 Cavalo
+Boi
