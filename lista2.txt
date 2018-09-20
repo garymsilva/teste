@@ -4,3 +4,5 @@ Rato
 Porco
 Cavalo
 Boi
+macaco
+leão
